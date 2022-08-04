@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: blanchedalmond;
+    line-height: 1.5;
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    border-left: 10px solid #e64751;
+    padding: 50px 50px;
+    background-color: white;
+
+}
+
+.innertable tr td {
+    font-size: 12px;
+}
+
+p {
+    font-size: 12px;
+}
+a {
+    text-decoration: none;
+    color: #e64751;
+}
+
+.table {
+    width: 100%;
+}
+
+.thead-th {
+    text-align: right;
+}
+ 
+
+.heading {
+
+    vertical-align: top;
+    text-align: right;
+    padding-right: 50px;
+    color: #e64751;
+}
+
+.thead-th,
+thead h1,
+h5 {
+
+    padding-right: 50px;
+}
+
+th {
+    width: 50%;
+}
+
+h1,
+h4,
+.profession {
+    text-transform: uppercase;
+}
+
+.text-color {
+    color: #e64751;
+}
+
+p,
+h5,
+tr {
+    text-transform: capitalize;
+}
+.blank{
+    padding-top:15px;
+}
+.resumetable th,
+.resumetble td {
+    padding: 16px;
+    vertical-align: top;
+}
+
+.resumetable th {
+    text-align: right;
+}
+
+.innertable {
+    padding: 0;
+}
+
+.innertable td {
+    width: 50%;
+}
+.section {
+    padding-top: 30px;
+}
+
+
+
